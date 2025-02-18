@@ -15,6 +15,7 @@ Este projeto é a Prova de Conceito (POC) para a conclusão do curso, demonstran
 - YOLOv8 (Ultralytics): Modelo de detecção de objetos.
 - Labelme: Ferramenta de anotação de imagens (instalada via `pip`).
 - `conv_json_text.py`: Script para conversão de arquivos JSON (gerados pelo Labelme) em arquivos TXT compatíveis com YOLO.
+- Não esqueça de configuar o ambiente virtual isolado (virtualenv ou via anaconda)
 
 ## Estrutura do Dataset (`MyDrive/yolo_war_dataset`)
 A pasta de dataset utilizada está compartilhada livremente em:  
