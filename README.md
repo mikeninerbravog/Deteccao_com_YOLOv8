@@ -1,0 +1,1 @@
+# Deteccao_com_YOLOv8
