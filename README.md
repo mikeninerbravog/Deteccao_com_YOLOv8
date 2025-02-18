@@ -17,6 +17,9 @@ Este projeto é a Prova de Conceito (POC) para a conclusão do curso, demonstran
 - `conv_json_text.py`: Script para conversão de arquivos JSON (gerados pelo Labelme) em arquivos TXT compatíveis com YOLO.
 
 ## Estrutura do Dataset (`MyDrive/yolo_war_dataset`)
+A pasta de dataset utilizada está compartilhada livremente em:  
+https://drive.google.com/drive/folders/17imMO7SZjqaXmF-D9lt9mL_QMkptn3C5?usp=drive_link
+
 ```
 MyDrive/
 └── yolo_war_dataset/
@@ -84,6 +87,7 @@ for img_path in probe_images:
 - Detecção de 3 classes: `tank`, `soldier`, `warship`.
 - Uso do Labelme: Criação de anotações.
 - Conversão com `conv_json_text.py`: Compatibilidade com YOLO.
+- Dataset disponível publicamente para reprodutibilidade.
 - Execução completa via Google Colab com Google Drive.
 
 Desenvolvido por: Marcello S. Bastos  
