@@ -1,7 +1,7 @@
 # Prova de Conceito (POC) - Detecção com YOLOv8
 
 ## Informações do Projeto
-- Aluno: Marcello S. Bastos  
+- Aluno: Marcello dos Santos  
 - Curso: BairesDev - Machine Learning Practitioner  
 - Mês/Ano: Fevereiro 2025  
 
