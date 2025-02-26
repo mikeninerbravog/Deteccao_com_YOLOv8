@@ -91,5 +91,5 @@ for img_path in probe_images:
 - Dataset disponível publicamente para reprodutibilidade.
 - Execução completa via Google Colab com Google Drive.
 
-Desenvolvido por: Marcello S. Bastos  
+Desenvolvido por: Marcello dos Santos
 Curso: BairesDev - Machine Learning Practitioner (Fevereiro 2025)
